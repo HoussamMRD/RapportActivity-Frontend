@@ -1,3 +1,4 @@
+// @ts-ignore
 import {ContactCategorie} from '../../projets/contacts/modeles/contact-categorie';
 
 export class SelectContactCategorie {

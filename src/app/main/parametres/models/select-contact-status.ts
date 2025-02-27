@@ -1,3 +1,4 @@
+// @ts-ignore
 import {ContactStatus} from '../../projets/contacts/modeles/contact-status';
 
 export class SelectContactStatus {

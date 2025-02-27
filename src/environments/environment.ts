@@ -142,6 +142,10 @@ export const environment = {
     // part Location
     locationapi: 'http://localhost:6204/locationinvoiceapi',
 
+    //partie rh
+    employees: 'http://localhost:6105/employe/query',
+    departements: 'http://localhost:6105/dept/query'
+
 };
 
 /*
